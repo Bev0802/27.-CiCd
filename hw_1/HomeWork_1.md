@@ -40,5 +40,5 @@
    ![Assigned_project_runners](Assigned_project_runners.JPG)
 5. Artifacts  
    ![Artifacts](Artifacts.JPG)
-6. Создала ветку pages
+6. Создала ветку pages.
    https://gitlab.com/bev0802/cicd_01/-/tree/pages?ref_type=heads
