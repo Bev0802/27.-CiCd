@@ -28,7 +28,7 @@
 2. Попробовать сохранить артефакт одной из стадий + исключить из папки с артифактами любой файл
 3. Попробовать сделать любую gitlab pages
 
-### Выполнила: https://gitlab.com/bev0802/cicd_01
+### Выполнила: https://gitlab.com/bev0802/cicd_01/
 
 1. Cоздала Pipeline
    ![1. Cоздала Pipeline](Pipeline.jpg)
@@ -38,5 +38,7 @@
    ![3. Установила и зарегистрировала ранер](RunerReg.JPG)
 4. Assigned project runners
    ![Assigned_project_runners](Assigned_project_runners.JPG)
-5. Artifacts   
+5. Artifacts  
    ![Artifacts](Artifacts.JPG)
+6. Создала ветку pages
+   https://gitlab.com/bev0802/cicd_01/-/tree/pages?ref_type=heads
