@@ -31,11 +31,11 @@
 ### Выполнила: https://gitlab.com/bev0802/cicd_01/
 
 1. Cоздала Pipeline
-   ![1. Cоздала Pipeline](Pipeline.jpg)
+   ![1. Cоздала Pipeline](Pipeline.JPG)   
 2. jobs
-   ![2. jobs](jobs.jpg)
+   ![2. jobs](jobs.JPG)  
 3. Установила и зарегистрировала ранер
-   ![3. Установила и зарегистрировала ранер](RunerReg.JPG)
+   ![3. Установила и зарегистрировала ранер](RunerReg.JPG)   
 4. Assigned project runners
    ![Assigned_project_runners](Assigned_project_runners.JPG)
 5. Artifacts  
