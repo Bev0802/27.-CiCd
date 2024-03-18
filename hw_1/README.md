@@ -42,3 +42,4 @@
    ![Artifacts](Artifacts.JPG)
 6. Создала ветку pages.
    https://gitlab.com/bev0802/cicd_01/-/tree/pages?ref_type=heads
+7. Создала pages https://bev0802.gitlab.io/cicd_01/
