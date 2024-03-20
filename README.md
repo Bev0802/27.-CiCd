@@ -8,5 +8,5 @@
 
 Урок 3. [Continuous delivery и continuous deployment (непрерывная доставка и развертывание)](https://github.com/Bev0802/27.-CiCd/tree/main/hw_3)
 
-Урок 3. [Troubleshooting (диагностика и решение проблем в CI/CD)](https://github.com/Bev0802/27.-CiCd/tree/main/hw_4)
+Урок 4. [Troubleshooting (диагностика и решение проблем в CI/CD)](https://github.com/Bev0802/27.-CiCd/tree/main/hw_4)
 
